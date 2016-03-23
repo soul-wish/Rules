@@ -12,21 +12,10 @@ Be aware - you can't become a Kottan by just finishing the course - it's only a 
 - Help to grow somone in Kottans community.
 
 #Kottans list:
->[Artem Sychov](https://github.com/suchov)
->https://www.linkedin.com/in/suchov/en
->
->[Mikhail Bortnyk](https://github.com/vessi)
->https://www.linkedin.com/in/vessi/en
->
->[Oleksandr Lapshyn](https://github.com/sudodoki)
->https://ua.linkedin.com/in/sudodoki
->
->[Julia Savinkova](https://github.com/programulya)
->https://ua.linkedin.com/in/programulya
->
->[Andrey Listochkin](https://github.com/listochkin)
->https://ua.linkedin.com/in/listochkin
->
->[Denis Yagofarov](https://github.com/denyago)
->https://de.linkedin.com/in/denyago
+- [Artem Sychov](https://github.com/suchov) https://www.linkedin.com/in/suchov/en
+- [Mikhail Bortnyk](https://github.com/vessi) https://www.linkedin.com/in/vessi/en
+- [Oleksandr Lapshyn](https://github.com/sudodoki) https://ua.linkedin.com/in/sudodoki
+- [Julia Savinkova](https://github.com/programulya) https://ua.linkedin.com/in/programulya
+- [Andrey Listochkin](https://github.com/listochkin) https://ua.linkedin.com/in/listochkin
+- [Denis Yagofarov](https://github.com/denyago) https://de.linkedin.com/in/denyago
 

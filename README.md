@@ -18,6 +18,8 @@ Be aware - you can't become a Kottan by just finishing the course - it's only a 
 - [Julia Savinkova](https://github.com/programulya) https://ua.linkedin.com/in/programulya
 - [Andrey Listochkin](https://github.com/listochkin) https://ua.linkedin.com/in/listochkin
 - [Denis Yagofarov](https://github.com/denyago) https://de.linkedin.com/in/denyago
+- [Julia Budnik](https://github.com/mayosh)
+- [Denis Yagofarov](https://github.com/denyago) https://de.linkedin.com/in/denyago
 
 #Kottans friends:
 - [Eldar Djafarov](https://github.com/edjafarov) https://ua.linkedin.com/in/edjafarov
